@@ -1,0 +1,2 @@
+Method,Setting,Expression,Accuracy (%),Precision,Recall,F1 Score
+DICE-FER (ours),image-based,7,82.72,0.752,0.741,0.744
